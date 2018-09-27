@@ -10,7 +10,7 @@ It is important to remember that by default the Service Worker of the [Create Re
 
 ```bash
 # Clone the repo
-git clone https://github.com/lourencorodrigo/update-service-worker.git
+git clone https://github.com/lourencorodrigo/update-available-service-worker.git
 
 # Change directory
 cd update-service-worker
