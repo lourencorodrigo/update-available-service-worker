@@ -1,4 +1,4 @@
-This application is an example in [Create React App](https://github.com/facebookincubator/create-react-app) of how to identify the update of a [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers/) and notify the user that a cache update exists.
+This application is an example in [Create React App](https://github.com/facebookincubator/create-react-app) of how to identify the update available with [Service Worker](https://developers.google.com/web/fundamentals/primers/service-workers/) and notify the user that a cache update exists.
 
 ## Demo
 
