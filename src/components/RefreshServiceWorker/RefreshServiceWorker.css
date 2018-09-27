@@ -1,0 +1,31 @@
+.RefreshServiceWorker-btn {
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  width: 320px;
+  height: 33px;
+  background: #E59215;
+  border-radius: 16.5px;
+  font-weight: bold;
+  box-shadow: 0px 2px 0px #AB6B0A;
+  transition: background .3s linear;
+  border: 0;
+  margin-top: 15px;
+}
+
+.RefreshServiceWorker-btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+.RefreshServiceWorker-btn:hover {
+  background: rgb(209, 133, 18)
+}
+
+.RefreshServiceWorker-btn:focus {
+  outline: 0;
+}
+
+.RefreshServiceWorker-btn:active {
+  appearance: none;
+  box-shadow: 0px 1px 0px #AB6B0A;
+  transform: translateY(1px);
+}
